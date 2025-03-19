@@ -19,16 +19,6 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios ingresa
 └── 📁 assets/        # Imágenes y recursos
 ```
 
-## 🛠️ Instalación y uso
 
-1. Clona este repositorio:
-   ```sh
-   git clone https://github.com/tu-usuario/amigo-secreto.git
-   ```
-2. Abre el archivo `index.html` en tu navegador.
-3. ¡Agrega nombres y realiza el sorteo!
 
-## 📜 Licencia
-
-Este proyecto se distribuye bajo la licencia MIT. ¡Siéntete libre de usarlo y modificarlo! 😊
 
